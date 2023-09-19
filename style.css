@@ -31,7 +31,7 @@ background-image: linear-gradient(to right top, #4633f1, #197cbd, #1bc295, #21d2
 
 #login_button
 {
-	width: 80%;border-radius: 15px;
+	width: 80%;border-radius: 15px; background-color: #1bc295;
 }
 
 .room_name
