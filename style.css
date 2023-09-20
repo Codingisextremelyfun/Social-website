@@ -43,7 +43,7 @@ background-image: linear-gradient(to right top, #4633f1, #197cbd, #1bc295, #21d2
 
 #logout
 {
-	font-size: 20px; float: right;
+	font-size: 20px; float: right; background-color: burlywood;
 }
 
 
@@ -92,4 +92,8 @@ background-image: linear-gradient(to right top, #4633f1, #197cbd, #1bc295, #21d2
 .message_h4
 {
 	padding-left:5px;color:grey;
+}
+#add_room
+{
+	width: 50%;
 }
